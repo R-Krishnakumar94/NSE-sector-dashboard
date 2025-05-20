@@ -152,7 +152,7 @@ streamlit run nse_dashboard.py
 ---
 
 ## 🌐 Live Demo
-Deployed at:(https://yourappname.streamlit.app)](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/#nse-sector-dashboard)
+Deployed at:https://bit.ly/3ZtRT3d
 
 ---
 
