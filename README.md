@@ -130,8 +130,7 @@ streamlit run nse_dashboard.py
 ---
 
 ## 🌐 Live Demo
-Deployed at: [[https://NSE Sector Dashboard.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/)]([https://yourappname.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/))
-
+Deployed at: [[https://NSE Sector Dashboard.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/)]
 ---
 
 Feel free to fork and expand this tool for:
