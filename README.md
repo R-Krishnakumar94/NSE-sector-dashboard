@@ -1,18 +1,22 @@
 # 📊 NSE Sector Dashboard
 
 ## 🔎 Overview
-This project is a **fully interactive data analytics dashboard** that provides sector-wise insights on the **Indian stock market (NSE)**. The tool merges real-time technical data with financial news sentiment analysis to help traders, analysts, and investors:
+This project is a **streamlined and intelligent dashboard** that offers traders and market analysts a powerful view of **NSE India sector performance**, combining both **technical price movement** and **AI-driven sentiment analysis**. It is designed to serve as a **decision support tool**, enabling users to:
 
-- Identify **top-performing and underperforming sectors**
-- Gauge **market mood and sectoral sentiment** using NLP
-- Use **relative strength** for actionable trade insights
-- Build a **foundation for machine learning trend prediction**
+- Spot top-performing and lagging sectors based on real-time price data
+- Interpret sentiment signals from global and domestic financial news
+- Use Relative Strength (RS) scores to compare sector performance versus NIFTY
+- Understand overall market mood to anticipate trends
 
-Unlike basic price trackers, this dashboard provides a **360° view** of sector dynamics by combining:
-- 📈 **Price Action and Momentum**
-- 🌐 **News-Based Sentiment (India + Global)**
-- 🧠 **Relative Strength vs NIFTY**
-- 🚀 **Scalable ML-ready architecture**
+The dashboard is especially tailored for:
+- 📈 **Intraday and short-term traders** who rely on sector momentum
+- 🧠 **Fundamental analysts** seeking sentiment-based confirmation
+- 🧮 **Data science practitioners** looking to experiment with real-world NLP and financial signals
+
+This tool also lays the foundation for **machine learning-based trend prediction**, setting it apart from traditional dashboards. The integration of FinBERT, sector-specific keyword mapping, and news relevance scoring creates a unique hybrid system that **quantifies qualitative sentiment**, making it actionable.
+
+With clean visualizations, real-time data access, and future-ready architecture, this dashboard demonstrates how **data analytics, Python, and domain knowledge** can converge to power smarter financial insights.
+
 
 ---
 
