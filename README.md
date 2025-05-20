@@ -36,7 +36,7 @@ This identifies **momentum leaders and laggards**.
 ### 2. **Relative Strength (RS) Analysis vs NIFTY 50**
 A core innovation in this project is **RS scoring**, which identifies outperforming sectors based on:
 
-```
+```math
 RS Score = Sector % Change - NIFTY % Change
 ```
 
