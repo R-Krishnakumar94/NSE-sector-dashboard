@@ -15,7 +15,7 @@ import yfinance as yf
 # Config
 # ------------------------------
 st.set_page_config("📊 NSE Sector Dashboard", layout="wide")
-NEWSAPI_KEY = "2fe4800b3d6d442ca1baad5a1ac18b27"
+NEWSAPI_KEY =  st.secrets["NEWSAPI_KEY"]
 
 @st.cache_resource()
 def load_finbert():
