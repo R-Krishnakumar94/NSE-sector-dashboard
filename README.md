@@ -132,7 +132,7 @@ This would add a machine-learning layer to the dashboard and help forecast direc
 ## 🚀 How to Run Locally
 1. Clone the repository
 ```bash
-git clone https://github.com/R-Krishnakumar94/nse-sector-dashboard
+git clone https://github.com/yourusername/nse-sector-dashboard
 cd nse-sector-dashboard
 ```
 2. Install dependencies:
@@ -152,7 +152,7 @@ streamlit run nse_dashboard.py
 ---
 
 ## 🌐 Live Demo
-Deployed at:https://bit.ly/3ZtRT3d
+**Deployed at**: https://bit.ly/3ZtRT3d
 
 ---
 
