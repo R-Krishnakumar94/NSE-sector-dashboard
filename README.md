@@ -37,7 +37,7 @@ This identifies **momentum leaders and laggards**.
 A core innovation in this project is **RS scoring**, which identifies outperforming sectors based on:
 
 ```math
-RS Score = Sector % Change - NIFTY % Change
+**RS Score = Sector % Change - NIFTY % Change**
 ```
 
 #### 🔮 Prediction Mapping
