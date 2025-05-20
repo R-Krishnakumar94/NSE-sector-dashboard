@@ -103,7 +103,7 @@ This method lets us quantify **narrative-based sentiment impact** on different s
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/yourusername/nse-sector-dashboard/main/preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/R-Krishnakumar94/nse-sector-dashboard/main/preview.png)
 
 ---
 
@@ -130,7 +130,7 @@ streamlit run nse_dashboard.py
 ---
 
 ## 🌐 Live Demo
-Deployed at: [https://yourappname.streamlit.app]([https://yourappname.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/))
+Deployed at: [[https://yourappname.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/)]([https://yourappname.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/))
 
 ---
 
