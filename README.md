@@ -72,6 +72,29 @@ This method lets us quantify **narrative-based sentiment impact** on different s
 
 ---
 
+## 📈 Sentiment Trend Prediction (Future Scope)
+This section is currently a placeholder for an upcoming ML model that will predict **future sector movements based on historical sentiment trends**.
+
+### 🚧 Planned Approach:
+- Log **daily sentiment scores** for each sector
+- Use those logs to create **rolling input windows** (e.g. 3-day sentiment trend)
+- Train a **Logistic Regression / Random Forest / LSTM** to predict:
+  - Will the sector rise or fall next session?
+
+### 🧮 Example Features:
+- `sentiment_day_1`, `sentiment_day_2`, `sentiment_day_3`
+- `price_change_next_day (target)`
+
+### 📊 Example Output:
+| Sector     | Recent Sentiments | Prediction        |
+|------------|--------------------|-------------------|
+| NIFTY IT   | [-0.2, 0.1, 0.3]   | ⬆️ Uptrend Expected |
+| NIFTY AUTO | [0.3, 0.2, -0.1]   | ⬇️ Downtrend Likely |
+
+This would add a machine-learning layer to the dashboard and help forecast direction based on how **sentiment evolves over time**.
+
+---
+
 ## 🎯 Why This Project Is Unique
 - It merges **quantitative price movement** with **natural language-based sentiment**
 - Uses **RS scoring** to simulate **capital rotation and sector momentum**
@@ -104,13 +127,12 @@ This method lets us quantify **narrative-based sentiment impact** on different s
 ## 🖼 Dashboard Preview
 
 ![Dashboard Preview](https://raw.githubusercontent.com/R-Krishnakumar94/nse-sector-dashboard/main/preview.png)
-
 ---
 
 ## 🚀 How to Run Locally
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nse-sector-dashboard
+git clone https://github.com/R-Krishnakumar94/nse-sector-dashboard
 cd nse-sector-dashboard
 ```
 2. Install dependencies:
@@ -130,7 +152,8 @@ streamlit run nse_dashboard.py
 ---
 
 ## 🌐 Live Demo
-Deployed at: [[https://NSE Sector Dashboard.streamlit.app](https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/)]
+Deployed at: [https://nse-sector-dashboardgit-xfmqxitysfmkjchrbowtvw.streamlit.app/#nse-sector-dashboard](https://yourappname.streamlit.app)
+
 ---
 
 Feel free to fork and expand this tool for:
