@@ -5,6 +5,7 @@ yfinance
 scikit-learn
 numpy
 transformers==4.36.2
-torch==2.7.0
-matplotlib
-seaborn
+torch==2.1.2
+beautifulsoup4
+altair
+vaderSentiment
