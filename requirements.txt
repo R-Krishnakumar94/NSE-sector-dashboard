@@ -5,7 +5,4 @@ yfinance
 scikit-learn
 numpy
 transformers==4.36.2
-torch==torch==2.0.1
-beautifulsoup4
-altair
-vaderSentiment
+torch==2.0.1
